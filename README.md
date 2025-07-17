@@ -6,7 +6,7 @@ Welcome! This repository showcases my verified cybersecurity certifications. I'm
 
 | Certification Name                               | Issuer         | Date Earned |
 |--------------------------------------------------|----------------|--------------
-| Cybrary-cert-cybrary-orientation-2025            | Cybrary        | April 2025  |
+| Cybrary-cert-cybrary-orientation-2025            | Cybrary        | April 2025  | Yusuf Jamiu cybrary-cert-careers-in-cybersecurity.pdf
 | Cybrary-cert-careers-in-cybersecurity            | Cybrary        | April 2025  |
 | Cybrary-cert-network-fundamentals-v2             | Cybrary        | April 2025  | 
 | Cybrary-cert-offensive-security-operations       | Cybrary        | June 2025   |

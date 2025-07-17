@@ -18,5 +18,5 @@ Welcome! This repository showcases my verified cybersecurity certifications. I'm
 - Open to internships or junior red team/penetration tester roles
 
 📧 Contact: yusufjamiucyber@gmail.com
-🔗 [LinkedIn](https://linkedin.com/in/YusufJamiu)
+🔗 [LinkedIn][(https://www.linkedin.com/in/yusuf-jamiu/)]
     [GitHub](https://github.com/jamiuyusuf)
